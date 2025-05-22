@@ -20,7 +20,7 @@ I’ve built a fun and fully functional **Tic Tac Toe Game App** using **Java** 
 - Drawable-based custom rounded buttons
 
 ## 📎 LinkedIn Post:
-[🔗 View My LinkedIn Post ➜](https://www.linkedin.com/in/khushi-vishwakarma/)
+[🔗 View My LinkedIn Post ➜](https://www.linkedin.com/posts/khushi-vishwakarma-152188341_github-khushigvishwakarmaprodigyad04-activity-7331336177406382081-kHm-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWiGs4BdFdE1dlYyl_9NpIWNoSnGlDpcL0)
 
 ## 📂 GitHub Repository:
 [🔗 PRODIGY_AD_04 GitHub Repo](https://github.com/KhushiGVishwakarma/PRODIGY_AD_04)
