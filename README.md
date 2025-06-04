@@ -1,7 +1,6 @@
-# PRODIGY_AD_04 – Tic Tac Toe Android App 🎮
+# Tic Tac Toe Android App 🎮
 
 ## 📱 Project Description:
-This is my fourth task as part of the **Android Development Internship at Prodigy InfoTech**.  
 I’ve built a fun and fully functional **Tic Tac Toe Game App** using **Java** and **XML**, featuring a dark-themed modern UI and intelligent game logic.
 
 ## 🔧 Features:
@@ -22,12 +21,7 @@ I’ve built a fun and fully functional **Tic Tac Toe Game App** using **Java** 
 ## 📎 LinkedIn Post:
 [🔗 View My LinkedIn Post ➜](https://www.linkedin.com/posts/khushi-vishwakarma-152188341_androiddevelopment-java-tictactoe-activity-7331341071131508738-X6UH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWiGs4BdFdE1dlYyl_9NpIWNoSnGlDpcL0)
 ## 📂 GitHub Repository:
-[🔗 PRODIGY_AD_04 GitHub Repo](https://github.com/KhushiGVishwakarma/PRODIGY_AD_04)
-
-## 📌 Task Info:
-- Track: Android Development
-- Internship: Prodigy InfoTech
-- Task 04: Tic Tac Toe Game App
+[🔗 TicTacToe_App_Android GitHub Repo](https://github.com/KhushiGVishwakarma/TicTacToe_App_Android)
 
 ---
 
